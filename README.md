@@ -1,5 +1,5 @@
 # High-School-Projects
-Repository full of my projects from highschool
+**Repository full of my projects from highschool**
 
 Projects from APCSA - 2019-2020:
   Binary Clock - date
